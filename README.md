@@ -18,7 +18,7 @@ This Flask-based web application provides current weather information and histor
 
 1. Clone the repository:
    
-   git clone https://github.com/Bhaskar9143/weatherforecast-main.git
+   git clone https://github.com/ysmdhaneef74/weather.git
    cd weatherforecast-main
    
 
